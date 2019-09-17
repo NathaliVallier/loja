@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lv_clientes" type="id" />
+    <item name="tvNomeClienteAdapter" type="id" />
+    <item name="tvSobrenomeClienteAdapter" type="id" />
+    <item name="tvCpfClienteAdapater" type="id" />
+    <item name="imvFotoClienteAdapter" type="id" />
+    <item name="pb_foto_clientes_adapter" type="id" />
+</resources>
