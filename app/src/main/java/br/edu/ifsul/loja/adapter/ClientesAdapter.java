@@ -45,7 +45,6 @@ public class ClientesAdapter extends ArrayAdapter<Cliente> {
         if(cliente.getUrl_foto().equals("")){
             holder.pbFotoDoCliente.setVisibility(View.INVISIBLE);
         }else{
-            //faz o downlod da foto aqui, usando API do serviço Storage
         }
 
         return convertView;
